@@ -1,0 +1,6 @@
+今天是我学习UNIX网络编程的第一天。我希望此文档能记录我学习的点点滴滴，并最终发布到我的github.我现在需要做的事情很多，编程只是我的爱好，(1969-1973) 2017/3/8
+我所选的是一本已经使用了20年的教材，要知道C语言的诞生也只不过48年，
+这本书不可能一夜使你成为高手，但它终将使你成为高手，做好一件事情是不容易的，但是值得的。
+It's important for our qurity of life. ----Linus
+所有的RFC都可以通过电子邮件、匿名FTP或WWW免费获得，起始点之一是http://www.ietf.org 目录ftp://ftp.isi.edu/in-notes是一个存放RFC的位置。这里不给出RFC的URL。
+(几乎所有的互联网标准都收录在RFC文件中) 因特网工程任务攻坚组(Internet Engineering Task Force)
